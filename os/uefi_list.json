@@ -33,7 +33,7 @@
 		{
 			"os_name": "UEFI Mode Pi 3",
 			"description": "Pi 3 - Reboots into UEFI firmware",
-			"icon": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_pi3/UEFI.png",
+			"icon": "https://github.com/jraebrown/pinn-uefi/raw/main/os/uefi_mode_pi3/UEFI.png",
 			"nominal_size": 256,
 			"os_info": "https://github.com/jraebrown/pinn-uefi/raw/main/os/uefi_mode_pi3/os.json",
 			"group": "UEFI-Setup",
