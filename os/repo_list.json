@@ -11,7 +11,7 @@
 		},
 		{
 			"name" : "UEFI",
-			"url"  : "http://raw.githubusercontent.com/jraebrown/pinn-os/master/os/os_testing.json"
+			"url"  : "http://raw.githubusercontent.com/jraebrown/pinn-os/master/os/uefi_list.json"
 		},
 		
 		{
